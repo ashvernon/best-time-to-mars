@@ -8,6 +8,9 @@ This project visualises **annual optimal launch windows** from Earth to Mars usi
 ![Transfer Times](travel_times.png)  
 *Estimated Hohmann Transfer Time to Mars*
 
+![Animate the Solar System](solar_system_orbits_simulation_visually.jpg)  
+*Animation of Planetary Orbits*
+
 ---
 
 ## 🔧 Features
@@ -53,8 +56,7 @@ Edit
 python solar_system_orbits.py
 Launches an interactive animation of planetary orbits.
 
-![Animate the Solar System](solar_system_orbits_simulation_visually.jpg)  
-*Animation of Planetary Orbits*
+
 
 📁 Project Structure
 bash
