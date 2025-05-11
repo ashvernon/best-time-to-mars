@@ -72,8 +72,7 @@ best_time_to_travel_to_mars/
 MIT License. You are free to use, modify, and distribute this project.
 
 👨‍🚀 Author
-Created with curiosity and caffeine by Your Name.
-🌌 Inspired by exploration, powered by Python.
+Created with curiosity and caffeine by Ash.
 
 yaml
 Copy
@@ -81,4 +80,4 @@ Edit
 
 ---
 
-Let me know if you'd like a logo, GitHub badges, or advanced markdown formatting (like collapsible sections or 
+
