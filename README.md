@@ -74,10 +74,6 @@ MIT License. You are free to use, modify, and distribute this project.
 👨‍🚀 Author
 Created with curiosity and caffeine by Ash.
 
-yaml
-Copy
-Edit
-
 ---
 
 
