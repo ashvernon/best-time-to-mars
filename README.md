@@ -1,6 +1,6 @@
 # 🚀 Best Time to Travel to Mars
 
-This project visualizes **annual optimal launch windows** from Earth to Mars using planetary ephemeris data and Hohmann transfer orbit estimations. It provides a scientific and interactive tool to determine the best years and durations for interplanetary missions from 2025 to 2045.
+This project visualises **annual optimal launch windows** from Earth to Mars using planetary ephemeris data and Hohmann transfer orbit estimations. It provides a scientific and interactive tool to determine the best years and durations for interplanetary missions from 2025 to 2045.
 
 ![Launch Windows](launch_windows.png)  
 *Annual Closest Earth→Mars Distances*
@@ -52,6 +52,9 @@ Copy
 Edit
 python solar_system_orbits.py
 Launches an interactive animation of planetary orbits.
+
+![Animate the Solar System](solar_system_orbits_simulation_visually.jpg)  
+*Animation of Planetary Orbits*
 
 📁 Project Structure
 bash
