@@ -17,9 +17,9 @@ This project visualises **annual optimal launch windows** from Earth to Mars usi
 
 - 🌍 Accurate Earth–Mars distance calculations using JPL DE421 ephemeris
 - 📅 Annual closest approach dates for Mars from 2025 to 2045
-- 🪐 Animated solar system orbit visualization
+- 🪐 Animated solar system orbit visualisation
 - 📈 Estimated transfer durations using orbital mechanics
-- 🖼 Automatically saved visualizations
+- 🖼 Automatically saved visualisations
 
 ---
 
